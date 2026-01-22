@@ -1,5 +1,5 @@
 # Final Project Overview
-## (Weekly Checklist)[checklist.md]
+## [Weekly Checklist](checklist.md)
 ## Dungeon Ops: Console RPG Management System
 
 ### Project Type - Individual Programming Project (Java Console Application)
