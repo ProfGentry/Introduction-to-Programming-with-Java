@@ -75,7 +75,7 @@ Examples:
 - Quest types or difficulty levels (+5)
 - Sorting heroes by level/status (+5)
 
-### Grading Philosophy
+# Grading Philosophy
 
 A simple, correct, stable program scores higher than a broken complex one
 
