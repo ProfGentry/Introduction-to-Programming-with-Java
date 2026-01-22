@@ -3,7 +3,7 @@ Code Repository for SDC120/L Courses
 
 - [SDC120 Class Code](SDC120/README.md)
 
-- [SDC120L Class Code](SDC120L/README.md)
+- [SDC120L LAB Class Code](SDC120L/README.md)
 
 ## References
 - [The Java 8 API](https://docs.oracle.com/javase/8/docs/api/)
