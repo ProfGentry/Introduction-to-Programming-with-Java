@@ -14,3 +14,8 @@
 - Assignment 1
 ## Final Project
 - Final Project Overview
+- Week 1:
+- Week 2:
+- Week 3:
+- Week 4:
+- Week 5: 
