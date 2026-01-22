@@ -9,7 +9,7 @@ Code Repository for SDC120/L Courses
 - [The Java 8 API](https://docs.oracle.com/javase/8/docs/api/)
 The one reference you should take away from this course!
 
-- [Textbook GitHub](https://github.com/pdeitel/JavaHowToProgram12e)
+- [Textbook - GitHub Repository](https://github.com/pdeitel/JavaHowToProgram12e)
 
 - [JDK 25 Download](https://adoptium.net/temurin/releases/)
   Available for Windows, macOS, and Linus
