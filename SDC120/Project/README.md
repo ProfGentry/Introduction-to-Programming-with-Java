@@ -157,7 +157,7 @@ Your program must allow:
 
 Quest logic may be simple (random or rule-based).
 
-## Data Structures (Required)
+### Data Structures (Required)
 - Heroes stored in an ArrayList<Character>
 - Event log stored as ArrayList<String> per hero
 - Exception Handling (Required)
@@ -170,7 +170,7 @@ Your program must safely handle:
 
 The program must not crash due to bad input.
 
-## Reports / Stats Screen (Required)
+### Reports / Stats Screen (Required)
 
 Your program must include a stats option that displays:
 - Total number of heroes
