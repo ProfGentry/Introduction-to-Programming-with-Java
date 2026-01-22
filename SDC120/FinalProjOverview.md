@@ -40,6 +40,19 @@ You will choose ONE skin and use its class to control how your game presents its
 
 All skins implement the same interface, so your core game logic does not change.
 
+## Available Skins (Choose ONE)
+🧙 Fantasy Dungeon (Default)
+
+Classic RPG party management in a dungeon world.
+
+🚀 Space Crew Ops
+
+Manage astronauts and missions aboard a space station.
+
+🕶️ Cyberpunk Hacker Cell
+
+Manage elite hackers running high-risk digital operations.
+
 ## Required Program Features
 ### Main Menu (Required)
 
