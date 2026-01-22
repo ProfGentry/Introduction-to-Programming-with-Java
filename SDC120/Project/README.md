@@ -40,7 +40,7 @@ You will choose ONE skin and use its class to control how your game presents its
 
 All skins implement the same interface, so your core game logic does not change.
 
-## Available Skins (Choose ONE)
+## Skins (Choose ONE)
 🧙 Fantasy Dungeon (Default)
 
 Classic RPG party management in a dungeon world.
@@ -53,7 +53,7 @@ Manage astronauts and missions aboard a space station.
 
 Manage elite hackers running high-risk digital operations.
 
-## How Skins Work (Important)
+### How Skins Work (Important)
 
 You will not rewrite your program for each skin
 
@@ -67,7 +67,7 @@ The skin controls:
 
 This is real-world polymorphism, not decoration.
 
-## How to use the Skin (Example)
+### How to use the Skin (Example)
 In Main.java (or equivalent):
 ```
 GameSkin skin = new FantasyDungeonSkin();
@@ -81,7 +81,7 @@ System.out.println(skin.getGameTitle());
 
 From there, all output text should reference skin, not hardcoded strings.
 
-## Grading Note
+### Grading Note
 - You must use exactly one skin
 - You must use the skin object for output text
 - Do not duplicate logic per skin
