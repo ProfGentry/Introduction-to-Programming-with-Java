@@ -1,25 +1,29 @@
-/**
- * GameSkin defines the "theme layer" for the game.
+/*******************************************************************************************
+ * 🚫 DO NOT MODIFY THIS FILE 🚫
  *
- * This interface allows the program to change its presentation (text, names, messages, flavor) without changing any game logic.
+ * This file is part of the required project framework.
  *
- * IMPORTANT:
- * - You should NOT modify this interface.
- * - You will choose ONE class that implements this interface.
- * - Your program should reference GameSkin methods instead of
- *   hardcoding text directly into your logic.
+ * You are NOT allowed to:
+ *  - Add methods
+ *  - Remove methods
+ *  - Rename methods
+ *  - Change method signatures
+ *  - Change the interface structure
  *
- * This demonstrates:
- * - Interfaces
- * - Polymorphism
- * - Separation of concerns (logic vs presentation)
+ * You ARE allowed to:
+ *  - Create classes that IMPLEMENT this interface
+ *  - Call these methods from your program
  *
- * In real-world software, this pattern is used for:
- * - Themes / skins
- * - Localization (language support)
- * - Feature toggles
- * - White-labeled applications
- */
+ * Why this exists:
+ * This interface acts as a contract. Your program depends on it staying the same.
+ * Modifying this file will likely cause your project to break and may result in
+ * point deductions.
+ *
+ * Treat this file as if it were part of a library you did not write.
+ *
+ * If you think this file needs to change, you are almost certainly doing
+ * something incorrectly elsewhere in your code.
+ *******************************************************************************************/
 
 public interface GameSkin {
 
