@@ -11,7 +11,7 @@ The one reference you should take away from this course!
 
 ## Java Downloads
 ### Windows
-Install the Sun Java 6 JDK
+- [Install the Java JDK] (https://www.java.com/en/download/)
 You want to install the Java Standard Edition (SE) development kit (JDK). You can find this through Sun’s Java download site, but follow these directions for the direct link:
 
 Go to the Java SE JDK download page.
