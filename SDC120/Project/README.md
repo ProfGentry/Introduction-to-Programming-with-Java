@@ -81,6 +81,25 @@ System.out.println(skin.getGameTitle());
 
 From there, all output text should reference skin, not hardcoded strings.
 
+## Grading Note
+- You must use exactly one skin
+- You must use the skin object for output text
+- Do not duplicate logic per skin
+
+The goal is polymorphism, not copy/paste
+
+### Why This Matters (Yes, This Is Real)
+
+This is the same pattern used in:
+- Game engines
+- Theming systems
+- UI localization
+- Feature toggles
+- White-labeled software
+
+You’re not “just coding.”
+You’re building flexible systems.
+
 ## Required Program Features
 ### Main Menu (Required)
 
