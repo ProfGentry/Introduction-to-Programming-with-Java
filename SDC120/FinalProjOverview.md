@@ -35,6 +35,11 @@ You are building a Dungeon Operations System.
 The system manages a roster of heroes who can be sent on quests.
 Heroes gain experience, can be injured, and generate event logs based on quest outcomes.
 
+Your Dungeon Ops project supports three game skins.
+You will choose ONE skin and use its class to control how your game presents itself (names, text, flavor).
+
+All skins implement the same interface, so your core game logic does not change.
+
 ## Required Program Features
 ### Main Menu (Required)
 
