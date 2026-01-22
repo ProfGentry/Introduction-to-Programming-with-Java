@@ -66,16 +66,17 @@ The skin controls:
 - Status messages
 
 This is real-world polymorphism, not decoration.
+
 ## How to use the Skin (Example)
 In Main.java (or equivalent):
-'''
+```
 GameSkin skin = new FantasyDungeonSkin();
 // OR
 // GameSkin skin = new SpaceCrewSkin();
 // OR
 // GameSkin skin = new CyberpunkHackerSkin();
 
-System.out.println(skin.getGameTitle());'''
+System.out.println(skin.getGameTitle());```
 
 From there, all output text should reference skin, not hardcoded strings.
 
