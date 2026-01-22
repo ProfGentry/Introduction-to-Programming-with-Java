@@ -76,7 +76,8 @@ GameSkin skin = new FantasyDungeonSkin();
 // OR
 // GameSkin skin = new CyberpunkHackerSkin();
 
-System.out.println(skin.getGameTitle());```
+System.out.println(skin.getGameTitle());
+```
 
 From there, all output text should reference skin, not hardcoded strings.
 
