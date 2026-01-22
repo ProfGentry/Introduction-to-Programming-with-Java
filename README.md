@@ -9,9 +9,9 @@ SDC120L Class Code
 - [The Java 8 API](https://docs.oracle.com/javase/8/docs/api/)
 The one reference you should take away from this course!
 
-- (Textbook GitHub)[https://github.com/pdeitel/JavaHowToProgram12e]
+- [Textbook GitHub](https://github.com/pdeitel/JavaHowToProgram12e)
 
-- (JDK 25 Download)[https://adoptium.net/temurin/releases/]
+- [JDK 25 Download](https://adoptium.net/temurin/releases/)
   Available for Windows, macOS, and Linus
 
-  - (IDE Used in Class) [https://code.visualstudio.com/download]
+- [IDE Used in Class](https://code.visualstudio.com/download)
