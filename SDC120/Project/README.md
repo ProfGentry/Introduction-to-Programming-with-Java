@@ -1,9 +1,9 @@
 # Final Project Overview
 ## [Weekly Checklist](checklist.md)
 ## [Grading Rubric](rubric.md)
-## Dungeon Ops: Console RPG Management System
+## Dungeon Operation System (DOS): Console RPG Management System
 
-### Project Type - Individual Programming Project (Java Console Application)
+### Individual Programming Project (Java Console Application)
 ### Project Summary
 
 In this project, you will build the backend logic for a small role-playing game (RPG) management system using Java.
@@ -32,15 +32,15 @@ By completing this project, you will demonstrate the ability to:
 
 ### Program Concept
 
-You are building a Dungeon Operations System.
+You are building a Dungeon Operations System (DOS).
 
 The system manages a roster of heroes who can be sent on quests.
 Heroes gain experience, can be injured, and generate event logs based on quest outcomes.
 
-Your Dungeon Ops project supports three game skins.
-You will choose ONE skin and use its class to control how your game presents itself (names, text, flavor).
+Your DOS project supports three game skins.
+You will choose **ONE** skin and use its class to control how your game presents itself (names, text, flavor).
 
-All skins implement the same interface, so your core game logic does not change.
+All skins implement the same interface, so your core game logic **does not change**.
 
 ## Skins (Choose ONE)
 🧙 Fantasy Dungeon (Default)
@@ -59,7 +59,7 @@ Manage elite hackers running high-risk digital operations.
 
 You will not rewrite your program for each skin
 
-Your main program uses one skin object
+Your main program uses **one** skin object
 
 The skin controls:
 - Game title
