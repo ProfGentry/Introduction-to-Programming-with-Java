@@ -53,6 +53,20 @@ Manage astronauts and missions aboard a space station.
 
 Manage elite hackers running high-risk digital operations.
 
+## How Skins Work (Important)
+
+You will not rewrite your program for each skin
+
+Your main program uses one skin object
+
+The skin controls:
+- Game title
+- Character naming
+- Quest wording
+- Status messages
+
+This is real-world polymorphism, not decoration.
+
 ## Required Program Features
 ### Main Menu (Required)
 
