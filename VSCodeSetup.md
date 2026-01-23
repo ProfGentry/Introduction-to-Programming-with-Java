@@ -7,12 +7,11 @@ By the end of this lab, you will be able to:
 -	Connect VSCode with your GitHub account
 ## Instructions
 ### Step 1 - Install VS Code
-1. [Download](https://code.visualstudio.com/download) and install Visual Studio Code
+1. [Download](https://code.visualstudio.com/download) and install Visual Studio Code. VSCode is available for Windows, Linux, and macOS.
 2. Lauch VS Code once it's installed
 ### Step 2 - Install a JDK (Java Development Kit)
-You need a JDK for Java to work. 
+You need a JDK for Java to work. JDKs are available for Linux, macOS, and Windows environments.
 
-Windows / Mac
 1.	[Install JDK 25](https://www.oracle.com/java/technologies/downloads/#jdk25-windows) (or latest JDK available).
 2.	Restart your computer after installing.
 
