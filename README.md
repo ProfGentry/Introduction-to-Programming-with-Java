@@ -18,6 +18,7 @@ Do this every lab day. Small commits beat panic uploads at 11:59 PM.
 ## References
 - [The Java 8 API](https://docs.oracle.com/javase/8/docs/api/)
 The one reference you should take away from this course!
+- [VSCode Setup Instructions](VSCodeSetup.md)
 
 - [Common VSCode Problems and Fixes](VSCodeProblems.md)
 
