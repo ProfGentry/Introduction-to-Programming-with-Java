@@ -5,7 +5,7 @@ Use this checklist to track your progress.
 - [ ] Program compiles and runs
 - [ ] Menu loop works correctly
 - [ ] Exit option works
-- [ ] Base Character class created
+- [ ] Base Character class created (Character.java)
 - [ ] At least one method outside main()
 
 ## ✅ Week 2 – Recruit & View Heroes
