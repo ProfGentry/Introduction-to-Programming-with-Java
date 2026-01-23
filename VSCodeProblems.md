@@ -15,31 +15,31 @@ Fix:
 ## “Main method not found”
 Cause: Your main method is missing or misspelled.
 Make sure it is exactly:
-public static void main(String[] args)
+```public static void main(String[] args)```
 
 ## File name/class name mismatch
 If your file is Main.java, your class must be:
-public class Main
+```public class Main```
 
 ## “Package” problems
 If you’re just starting out, keep it simple:
-•	Don’t add package lines unless your instructor says to.
+-	Don’t add package lines unless your instructor says to.
 
 ## “Source Control tab is empty”
-•	You didn’t open the folder
-•	Fix: File → Open Folder, not “Open File”
+-	You didn’t open the folder
+-	Fix: File → Open Folder, not “Open File”
 
 ## VS Code keeps asking me to sign in
-•	You canceled browser authorization
-•	Fix: Run GitHub: Sign In again
+-	You canceled browser authorization
+-	Fix: Run GitHub: Sign In again
 
 ## I committed but nothing shows on GitHub
-•	You committed locally but didn’t Push
-•	Fix: Click Sync Changes
+-	You committed locally but didn’t Push
+-	Fix: Click Sync Changes
 
 ## I broke everything
-•	Congratulations, you’re programming
-•	Fix: Use GitHub history or ask before deleting files
+-	Congratulations, you’re programming
+-	Fix: Use GitHub history or ask before deleting files
 
 
 
