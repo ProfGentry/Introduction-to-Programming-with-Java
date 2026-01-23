@@ -24,8 +24,3 @@ The one reference you should take away from this course!
 - [Common VSCode Problems and Fixes](VSCodeProblems.md)
 
 - [Textbook - GitHub Repository](https://github.com/pdeitel/JavaHowToProgram12e)
-
-- [JDK 25 Download](https://adoptium.net/temurin/releases/)
-  Available for Windows, macOS, and Linus
-
-- [IDE Used in Class](https://code.visualstudio.com/download)
