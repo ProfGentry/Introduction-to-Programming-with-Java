@@ -15,9 +15,9 @@ You need a JDK for Java to work. JDKs are available for Linux, macOS, and Window
 1.	[Install JDK 25](https://www.oracle.com/java/technologies/downloads/#jdk25-windows) (or latest JDK available).
 2.	Restart your computer after installing.
 
-Quick check (optional but helpful):
-•	Open Command Prompt (Windows) or Terminal (Mac)
-•	Type:
+Quick check to verify installation:
+-	Open Command Prompt (Windows) or Terminal (Mac)
+-	Type:
 ```
 java -version
 javac -version
