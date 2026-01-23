@@ -25,14 +25,21 @@ javac -version
 You should see version info for both. If javac is “not recognized,” your JDK isn’t set up right yet.
 ### Step 3 — Install the VS Code Java Extensions
 Inside VS Code:
-1.	Click the Extensions icon (looks like 4 squares) on the left.
+1.	Click the Extensions icon (<img width="39" height="36" alt="image" src="https://github.com/user-attachments/assets/8b456503-fd3d-4e48-88f6-4674cb0d4f90" />
+looks like 4 squares) on the left.
 2.	Search for: Extension Pack for Java
-3.	Install it.
+<img width="299" height="147" alt="image" src="https://github.com/user-attachments/assets/1218f582-0dcf-4af5-91f2-2cf9cd3e97e6" />
+
+4.	Install it.
+<img width="1087" height="149" alt="image" src="https://github.com/user-attachments/assets/5722c521-9336-4620-a012-2df8bbbb115d" />
+
 This pack typically includes:
 -	Language Support for Java™ by Red Hat
 -	Debugger for Java
 -	Java Test Runner
 -	Maven for Java
+-	Gradle for Java
+-	Project Manager for Java
 ### Step 4 — Tell VS Code Which Java You Installed (If Needed)
 
 In VS Code
@@ -98,7 +105,8 @@ This is normal.
 Now we wire your project to GitHub.
 
 1.	Open your Java project folder in VS Code (File → Open Folder)
-2.	Click the Source Control icon (branch-looking icon on the left)
+2.	Click the Source Control icon (<img width="36" height="41" alt="image" src="https://github.com/user-attachments/assets/ef0d9b4e-f01f-424b-9538-b129ce9a5ab6" />
+branch-looking icon on the left)
 3.	Click Initialize Repository
 
 VS Code has now turned your folder into a Git repository.
