@@ -3,9 +3,8 @@ Use this checklist to track your progress.
 
 ## ✅ Week 1 – Game Engine Skeleton
 
- Program compiles and runs
-
- Menu loop works correctly
+[ ] Program compiles and runs
+[ ] Menu loop works correctly
 
  Exit option works
 
