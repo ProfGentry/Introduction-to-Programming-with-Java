@@ -13,7 +13,7 @@ By the end of this lab, you will be able to:
 You need a JDK for Java to work. 
 
 Windows / Mac
-1.	Install JDK 21 (or latest JDK available).
+1.	[Install JDK 25](https://www.oracle.com/java/technologies/downloads/#jdk25-windows) (or latest JDK available).
 2.	Restart your computer after installing.
 
 Quick check (optional but helpful):
