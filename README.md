@@ -11,6 +11,7 @@ Your rhythm should be:
 2.	Save files
 3.	Commit with a short message
 4.	Push to GitHub
+   
 Do this every lab day. Small commits beat panic uploads at 11:59 PM.
 
 
