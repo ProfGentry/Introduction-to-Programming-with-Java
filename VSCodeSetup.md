@@ -124,3 +124,11 @@ Your code is now:
 -	Saved on GitHub
 -	Recoverable if something breaks later
 
+## Submission Checklist (Screenshot Proof)
+
+When you’re done, take screenshots of:
+-	GitHub repository link
+-	Repo contains:
+	-	Java source files
+	-	At least one commit
+-	Commit messages that aren’t “asdf” or “final_final_REAL.java”
