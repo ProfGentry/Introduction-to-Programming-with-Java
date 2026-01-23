@@ -5,6 +5,15 @@ Code Repository for SDC120/L Courses
 
 - [SDC120L LAB Class Code](SDC120L/README.md)
 
+# Everyday Workflow
+Your rhythm should be:
+1.	Write code
+2.	Save files
+3.	Commit with a short message
+4.	Push to GitHub
+Do this every lab day. Small commits beat panic uploads at 11:59 PM.
+
+
 ## References
 - [The Java 8 API](https://docs.oracle.com/javase/8/docs/api/)
 The one reference you should take away from this course!
