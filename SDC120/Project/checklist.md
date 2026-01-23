@@ -2,81 +2,57 @@
 Use this checklist to track your progress.
 
 ## ✅ Week 1 – Game Engine Skeleton
-
-[ ] Program compiles and runs
-[ ] Menu loop works correctly
-
- Exit option works
-
- Base Character class created
-
- At least one method outside main()
+- [ ] Program compiles and runs
+- [ ] Menu loop works correctly
+- [ ] Exit option works
+- [ ] Base Character class created
+- [ ] At least one method outside main()
 
 ## ✅ Week 2 – Recruit & View Heroes
-
- Heroes can be created via user input
-
- Heroes stored in an ArrayList
-
- Unique ID assigned to each hero
-
- Party roster displays correctly
-
- Encapsulation used (private fields)
+- [ ] Heroes can be created via user input
+- [ ] Heroes stored in an ArrayList
+- [ ] Unique ID assigned to each hero
+- [ ] Party roster displays correctly
+- [ ] Encapsulation used (private fields)
 
 ## ✅ Week 3 – Character Classes (OOP)
-
- At least two subclasses implemented
-
- Subclasses include unique fields
-
- Polymorphism demonstrated
-
- Program uses ArrayList<Character>
+- [ ] At least two subclasses implemented
+- [ ] Subclasses include unique fields
+- [ ] Polymorphism demonstrated
+- [ ] Program uses ArrayList<Character>
 
 ## ✅ Week 4 – Quest System
-
- Heroes can be sent on quests
-
- Quest outcomes affect hero state
-
- Event log records quest results
-
- Invalid actions handled safely
-
- Exception handling implemented
+- [ ] Heroes can be sent on quests
+- [ ] Quest outcomes affect hero state
+- [ ] Event log records quest results
+- [ ] Invalid actions handled safely
+- [ ] Exception handling implemented
 
 ## ✅ Week 5 – Reports & Final Polish
-
- Stats screen implemented
-
- Program runs without crashing
-
- Code is clean and readable
-
- All required features work
-
- README file completed
-
-Final Submission Requirements
+- [ ] Stats screen implemented
+- [ ] Program runs without crashing
+- [ ] Code is clean and readable
+- [ ] All required features work
+- [ ] README file complete
+      
+# Final Submission Requirements
 
 ## You must submit:
-- All .java source files
-- README.txt including:
-  - How to run the program
-  - Which subclasses you implemented
-  - Any extra features (if applicable)
-
-- Sample output showing:
-  - Creating heroes
-  - Running a quest
-  - Viewing reports
+- [ ] All .java source files
+- [ ] README.txt including:
+    - [ ] How to run the program
+    - [ ] Which subclasses you implemented
+    - [ ] Any extra features (if applicable)
+- [ ] Sample output showing:
+    - [ ] Creating heroes
+    - [ ] Running a quest
+    - [ ] Viewing reports
 
 ## Extra Credit (Optional)
-- Save/load heroes from a file
-- Sort heroes by level or status
-- Add additional hero classes
-- Add quest types
+- [ ] Save/load heroes from a file
+- [ ] Sort heroes by level or status
+- [ ] Add additional hero classes
+- [ ] Add quest types
 
 ## Evaluation
 
