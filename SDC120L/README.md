@@ -1,16 +1,16 @@
 # SDC120L - Introduction to Programming with Java Lab
 ## Week 1
-- Lab 1
-- Lab 2
+- Lab A
+- Lab B
 ## Week 2
-- Lab 1
-- Lab 2
+- Lab C
+- Lab D
 ## Week 3
-- Lab 1
-- Lab 2
+- Lab E
+- Lab F
 ## Week 4
-- Lab 1
-- Lab 2
+- Lab G
+- Lab H
 ## Week 5
-- Lab 1
-- Lab 2
+- Lab I
+- Lab J
