@@ -1,7 +1,8 @@
 # Weekly Milestone Checklist
 Use this checklist to track your progress.
 
-## ✅ Week 1 – Game Engine Skeleton
+## ✅ Week 1 – Game Engine Skeleton (GameEngine.java)
+Use Main.java, GameEngine.java and Character.java for week 1 submissions.
 - [ ] Program compiles and runs
 - [ ] Menu loop works correctly
 - [ ] Exit option works
