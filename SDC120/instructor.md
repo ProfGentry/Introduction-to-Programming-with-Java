@@ -13,9 +13,11 @@
 - User flow vs. Program flow
 ### Hands On
 - [In Class Assignment 1](../SDC120/InClassActivity/ICA1.md)
+### Homework
+- [Assignemnt2.md](../SDC120/Assignments/Assignment2.md)
   
 ## Week 1 - Lab 1
-Lab A
+[Lab A](../SDC120L/LabA.md)
 GOAL: Students stop panicking when seeing RED
 
 ## Week 1 - Day 2
@@ -30,7 +32,9 @@ GOAL: Students stop panicking when seeing RED
 - Thinking like a developer
 - Debugging/Streamlining mindset
 - Reading code vs writing code
-
+### Homework
+- [Assignemnt3.md](../SDC120/Assignments/Assignment3.md)
+  
 ## Week 1 - Lab 2
-Lab B
+[Lab A](../SDC120L/LabB.md)
 GOAL - Your Users will do what they want, when they want
