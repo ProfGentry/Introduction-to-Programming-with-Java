@@ -3,8 +3,8 @@
 ### Week 1 - Introduction (Ch 1-2), Algorithm Development (Ch 3)
 Focus: Program structure, main(), console output, menu loops, and getting the project to run
 - [Assignment 1 - Programming Assignment](../SDC120/Assignments/Assignment1.md)
-- [Assignment 2 - Programming Assignment](/Assignments/Assignment2.md)
-- [Assignment 3 - Reflection Assignment](/Assignments/Assignment3.md) 
+- [Assignment 2 - Programming Assignment](../SDC120/Assignments/Assignment2.md)
+- [Assignment 3 - Reflection Assignment](../SDC120/Assignments/Assignment3.md) 
 ## Part 2 - Programming Fundamentals
 ### Week 2 - Control Structures & Methods (Ch 4 & Ch 5)
 - Assignment 1
