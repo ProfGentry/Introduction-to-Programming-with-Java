@@ -1,6 +1,4 @@
-import java.util.Scanner
-
-public class BrokenMenuApp {
+public class Broken {
 
     public static void main(String args[]) {
 
