@@ -9,12 +9,20 @@ Set up a project and successfully run it from Eclipse.
 
 ## Instructions
 
-Create a new Java project in Eclipse.
+- Create a new Java project in your IDE.
+- Create a Main.java file.
+  - Inside main():
+  - Print a title line
+  - Print a short description of the program
+- Run the program successfully.
 
-Run the program.
+# Requirements
 
-## Submission
+- Program compiles without errors
+- Output is clearly formatted
+- Uses System.out.println()
 
-Screenshot or console output showing:
+# Submission
+Main.java
 
 ✔ Reinforces: program structure, main(), object creation
