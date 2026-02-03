@@ -1,4 +1,5 @@
 # SDC120 - Introduction to Programming with Java
+To earn a "C" or higher in this course, you MUST submit a Final Project.
 ## Part 1 - Introduction
 ### Week 1 - Java Foundations & Program Structure (Ch 1-2 & Ch 3)
 Focus: Program structure, main(), console output, menu loops, and getting the project to run
