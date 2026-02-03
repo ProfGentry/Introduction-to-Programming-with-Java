@@ -1,4 +1,4 @@
-# Assignment 3 — Code Organization Reflection
+# Reflection 1 — Code Organization Reflection
 
 ## Type: Short Written Assignment
 ## Points: Complete/Incomplete
