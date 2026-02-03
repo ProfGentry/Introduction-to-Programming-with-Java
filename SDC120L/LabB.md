@@ -12,5 +12,7 @@ Update your menu program to:
 
 ## Skills Practiced
 ✔ Defensive programming
+
 ✔ Input validation
+
 ✔ Loop control
