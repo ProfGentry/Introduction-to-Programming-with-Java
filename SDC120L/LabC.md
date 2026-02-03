@@ -20,3 +20,14 @@ Then:
 ## Completion Check
 - Objects persist across method calls
 - Output shows multiple distinct objects
+
+# Skills Practiced
+✔ Class creation
+
+✔ Object instantiation
+
+✔ Encapsulation
+
+✔  Method writing
+
+✔  Collections
