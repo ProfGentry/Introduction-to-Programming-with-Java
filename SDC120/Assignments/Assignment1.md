@@ -26,4 +26,4 @@ Set up a project and successfully run it from Eclipse.
 - ```Main.java```
 - Consoleoutput
 
-✔ Reinforces: program structure, main(), object creation
+✔ Reinforces: program structure, ```main()```, object creation
