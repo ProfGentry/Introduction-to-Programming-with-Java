@@ -39,9 +39,9 @@ Focus: Program structure, main(), console output, menu loops, and getting the pr
 - Week 5 Quiz
 - Final Project Presentations
 ## Final Project
-- Final Project Overview
-- Week 1:
-- Week 2:
-- Week 3:
-- Week 4:
-- Week 5: 
+- [Final Project Overview](../SDC120/Project/README.md)
+- [Week 1: Program Startup & Menu Framework](../SDC120/Project/Week1.md)
+- [Week 2: Methods & Basic Object Creation](../SDC120/Project/Week2.md)
+- [Week 3: Collections, Search, and Structure](../SDC120/Project/Week3.md)
+- [Week 4: State Management & Robustness](../SDC120/Project/Week4.md)
+- [Week 5: Polymorphism, Integration & Final Submission](../SDC120/Project/Week5.md)
