@@ -17,3 +17,15 @@ Students extend a menu program to:
 ## Completion Check
 - User can add and list objects repeatedly
 - Program remains stable under bad input
+
+
+## Skills Practiced
+✔ Menu driven program design
+
+✔ User input handling
+
+✔ Object creation from input
+
+✔  Collection management
+
+✔  Conditional Logic
