@@ -12,3 +12,7 @@ Compile and run your menu-driven program.
 # Completion Criteria
 - Program runs successfully again
 - Student can identify what caused each error
+# Skills Practiced
+✔ Reading compiler messages
+✔ Debugging fundamentals
+✔ Understanding Java errors
