@@ -24,7 +24,7 @@ Focus: Program structure, main(), console output, menu loops, and getting the pr
 - Midterm Exam Theoretical
 - [Midterm Exam Practical](../SDC120/MidtermPractical.md) 
 ## Part 3 - Object Oriented Programming
-### Week 4 - OOP (Ch 8 & Ch 9)
+### Week 4 - State, Robustness, and Polymorphic Thinking (Ch 8 & Ch 9)
 - Assignment 6
 - In Class Activity 6
 - Assignment 7
