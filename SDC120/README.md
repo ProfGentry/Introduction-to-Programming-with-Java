@@ -1,6 +1,6 @@
 # SDC120 - Introduction to Programming with Java
 ## Part 1 - Introduction
-### Week 1 - Introduction (Ch 1-2), Algorithm Development (Ch 3)
+### Week 1 - Java Foundations & Program Structure (Ch 1-2 & Ch 3)
 Focus: Program structure, main(), console output, menu loops, and getting the project to run
 - [Assignment 1 - Programming Assignment](../SDC120/Assignments/Assignment1.md)
 - [In Class Activity 1 - Live Build](../SDC120/InClassActivity/ICA1.md) 
@@ -9,14 +9,14 @@ Focus: Program structure, main(), console output, menu loops, and getting the pr
 - [Reflection 1 - Reflection Assignment](../SDC120/Assignments/Reflection1.md)
 - Week 1 Quiz
 ## Part 2 - Programming Fundamentals
-### Week 2 - Control Structures & Methods (Ch 4 & Ch 5)
+### Week 2 - Control Flow, Methods, and Object Foundations (Ch 4 & Ch 5)
 - [Assignment 3](../SDC120/Assignments/Assignment3.md)
 - [In Class Activity 3](../SDC120/InClassActivity/ICA3.md) 
 - [Assignment 4](../SDC120/Assignments/Assignment4.md)
 - [In Class Activity 4](../SDC120/InClassActivity/ICA4.md) 
 - [Reflection 2](../SDC120/Assignments/Reflection2.md)
 - Week 2 Quiz
-### Week 3 - Data Structures (Ch 6 & Ch 7)
+### Week 3 - Collections, Objects, and Program Structure (Ch 6 & Ch 7)
 - Assignment 5
 - In Class Activity 5
 - Reflection 3
