@@ -5,10 +5,10 @@
 Use conditional logic to model real-world decisions.
 
 ## Instructions
-Create a Java class called DecisionScenarios with four methods.
-Each method must return a value (not print).
+- Create a Java class called ```Decisions``` with four methods.
+- Each method must return a value (not print).
 
-Implement logic for any three of the following scenarios:
+Implement logic for **any three** of the following scenarios:
 - Login Lockout
   - Inputs: failedAttempts (int)
   - Output: boolean (accountLocked)
@@ -23,9 +23,11 @@ Implement logic for any three of the following scenarios:
   - Output: String (“Weak”, “Medium”, “Strong”)
 
 ## Requirements
-- Use if / else or switch
+- Use ```if/else``` or ```switch```
 - No user input required
-- Methods must be called from main() for testing
+- Methods must be called from ```main()``` for testing
 
 ## Submission
-- Decisions.java
+- ```Decisions.java```
+
+✔ Practice using ```if/else```, Boolean logic, and Return values
