@@ -21,7 +21,7 @@ Then:
 - Objects persist across method calls
 - Output shows multiple distinct objects
 
-# Skills Practiced
+## Skills Practiced
 ✔ Class creation
 
 ✔ Object instantiation
