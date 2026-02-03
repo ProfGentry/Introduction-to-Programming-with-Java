@@ -6,15 +6,15 @@ Focus: Program structure, main(), console output, menu loops, and getting the pr
 - [In Class Activity 1 - Live Build](../SDC120/InClassActivity/ICA1.md) 
 - [Assignment 2 - Programming Assignment](../SDC120/Assignments/Assignment2.md)
 - [In Class Activity 2 - Refactor Programming](../SDC120/InClassActivity/ICA2.md)
-- [Reflection 1 - Reflection Assignment](../SDC120/Assignments/Reflectiona.md)
+- [Reflection 1 - Reflection Assignment](../SDC120/Assignments/Reflection1.md)
 - Week 1 Quiz
 ## Part 2 - Programming Fundamentals
 ### Week 2 - Control Structures & Methods (Ch 4 & Ch 5)
-- Assignment 3
-- In Class Activity 3
-- Assignment 4
-- In Class Activity 4
-- Reflection 2
+- [Assignment 3](../SDC120/Assignments/Assignment3.md)
+- [In Class Activity 3](../SDC120/InClassActivity/ICA3.md) 
+- [Assignment 4](../SDC120/Assignments/Assignment4.md)
+- [In Class Activity 4](../SDC120/InClassActivity/ICA4.md) 
+- [Reflection 2](../SDC120/Assignments/Reflection2.md)
 - Week 2 Quiz
 ### Week 3 - Data Structures (Ch 6 & Ch 7)
 - Assignment 5
