@@ -29,9 +29,3 @@ Implement logic for any three of the following scenarios:
 
 ## Submission
 - Decisions.java
-
-Methods must be called from main() for testing
-
-Submission
-
-DecisionScenarios.java
