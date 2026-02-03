@@ -23,6 +23,7 @@ Set up a project and successfully run it from Eclipse.
 - Uses ```System.out.println()```
 
 # Submission
-Main.java
+- ```Main.java```
+- Consoleoutput
 
 ✔ Reinforces: program structure, main(), object creation
