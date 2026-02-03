@@ -5,7 +5,7 @@
 Break a large problem into small, readable methods.
 
 ## Instructions
-Create a Java class called UtilityMenu.
+Create a Java class called ```UtilityMenu```.
 
 ## Your program must:
 - Display a menu with at least 5 options
@@ -16,11 +16,13 @@ Create a Java class called UtilityMenu.
 - Loop until Exit is chosen
 
 ## Requirements
-- main() should be minimal
-- Use switch or if/else
+- ```main()``` should be minimal
+- Use ```switch``` or ```if/else```
 - Program must not crash on invalid input
 
 ## Submission
 - UtilityMenu.java
 
 ## Sample output (screenshot or text)
+
+✔ Practice using parameters, Return types, Method naming
