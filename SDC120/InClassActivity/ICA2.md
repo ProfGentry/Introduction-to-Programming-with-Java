@@ -1,9 +1,9 @@
 # In Class Activity 2 — Pair Programming: Menu Refactor
 
-# Objective
-Improve an existing program through collaboration.
+## Objective
+Improve an existing program through collaboration. This exercise mirrors real code reviews and collaboration development.
 
-# Activity
+## Activity
 - Students pair up
 - Swap menu programs
 
@@ -13,6 +13,6 @@ Refactor partner’s code:
 - Clean up logic
 - Run and verify behavior
 
-# Deliverable
+## Deliverable
 - Updated version of partner’s program
 - Short note describing changes made
