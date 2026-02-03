@@ -1,7 +1,7 @@
 # In Class Activity — Live Build: From Pseudocode to Java
 
 ## Objective
-Translate a real-world process into working Java code as a group.
+Translate a real-world process into working Java code as a group. Most software starts as a conversation, not code.
 
 ## Activity
 Pick a real-world scenario (examples):
