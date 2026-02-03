@@ -14,5 +14,7 @@ Compile and run your menu-driven program.
 - Student can identify what caused each error
 # Skills Practiced
 ✔ Reading compiler messages
+
 ✔ Debugging fundamentals
+
 ✔ Understanding Java errors
