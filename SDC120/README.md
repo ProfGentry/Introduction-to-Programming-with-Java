@@ -17,12 +17,12 @@ Focus: Program structure, main(), console output, menu loops, and getting the pr
 - [Reflection 2](../SDC120/Assignments/Reflection2.md)
 - Week 2 Quiz
 ### Week 3 - Collections, Objects, and Program Structure (Ch 6 & Ch 7)
-- Assignment 5
-- In Class Activity 5
-- Reflection 3
+- [Assignment 5](../SDC120/Assignments/Assignment5.md)
+- [In Class Activity 5](../SDC120/InClassActivity/ICA5.md) 
+- [Reflection 3](../SDC120/Assignments/Assignment5.md)
 - Week 3 Quiz
 - Midterm Exam Theoretical
-- Midterm Exam Practical
+- [Midterm Exam Practical](../SDC120/MidtermPractical.md) 
 ## Part 3 - Object Oriented Programming
 ### Week 4 - OOP (Ch 8 & Ch 9)
 - Assignment 6
