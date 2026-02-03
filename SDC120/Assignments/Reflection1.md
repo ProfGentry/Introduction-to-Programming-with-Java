@@ -9,9 +9,9 @@ Explain why code organization matters in Java programs.
 # Questions
 Answer **briefly**:
 
-- Why is it a good idea to keep main() short?
+- Why is it a good idea to keep ```main()``` short?
 - What is the purpose of creating a separate “driver” or controller class?
-- What problems might happen if all logic is written in main()?
+- What problems might happen if all logic is written in ```main()```?
 
 # Submission
 Text document
