@@ -1,5 +1,6 @@
 # Assignment 1 — Decision Logic in the Real World
 ## Type: Programming Assignment
+## Points: 100
 ## Objective
 Use conditional logic to model real-world decisions.
 
