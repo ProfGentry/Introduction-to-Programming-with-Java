@@ -25,13 +25,13 @@ Focus: Program structure, main(), console output, menu loops, and getting the pr
 - [Midterm Exam Practical](../SDC120/MidtermPractical.md) 
 ## Part 3 - Object Oriented Programming
 ### Week 4 - State, Robustness, and Polymorphic Thinking (Ch 8 & Ch 9)
-- Assignment 6
-- In Class Activity 6
-- Assignment 7
-- In Class Activity 7
-- Reflection 4
+- [Assignment 6](../SDC120/Assignments/Assignment6.md)
+- [In Class Activity 6](../SDC120/InClassActivity/ICA6.md) 
+- [Assignment 7](../SDC120/Assignments/Assignment7.md)
+- [In Class Activity 7](../SDC120/InClassActivity/ICA7.md) 
+- [Reflection 4](../SDC120/Assignments/Reflection4.md)
 - Week 4 Quiz
-### Week 5 - Exception Handling & I/O (Ch 10 & Ch 11)
+### Week 5 - Polymorphism, Integration, and Program Readiness (Ch 10 & Ch 11)
 - Assignment 8
 - In Class Activity 8
 - Reflection 5
