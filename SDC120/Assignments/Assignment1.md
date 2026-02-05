@@ -9,6 +9,7 @@ Set up a project and successfully run it from Eclipse.
 
 ## Instructions
 
+- Install Eclipse in your Operating System
 - Create a new Java project in your IDE.
 - Create a ```Main.java``` file.
   - Inside ```main()```:
