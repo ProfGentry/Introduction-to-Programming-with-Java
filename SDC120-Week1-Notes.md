@@ -10,6 +10,7 @@
 - Step 7, recommend updating to: "Add 3 additional print statements with:" ✅
 
 - Step 8, maybe link documentation file so students can find these easier. <code style="color : aqua">Maybe something like this: [https://help.eclipse.org/latest/index.jsp](https://help.eclipse.org/latest/index.jsp)</code>
+  ^ HL: Yes! Just so they can look up what these things are in case they can't manage to find them in the tool.
 
 - Can we make the Quality Check items checkable? That might be a nice feature for students to visibily track their progress as they complete the exercise. <code style="color : aqua">UGH I have been trying to figure out how but I have not found a way yet! The problem is the Canvas HTML is static STATIC and only HTML ish </code>
 
@@ -47,14 +48,14 @@
 - Assuming this is a rebranded Discussion that will have the initial post due Wednesday night, it will likely receive a lot of pushback from the Online team. Assignment deadlines are Sunday at 11:59pm ET, and the whole premise of how the Retrospective is currently written is on the presumption that GP 1 and 2 MUST be completed (or at least attempted) BEFORE they can participate in the Retrospective by Wednesday. 
     - I think this could work as an individual end-of-the-week recap kind of thing, or a Week 2 reflect on Week 1 kind of situation, but the idea of like... "forced pacing" for the week (so to speak) might throw some road blocks. I'd recommend following up with Joe (maybe Shelia) for this.
 --- <code style="color : aqua">Well this would explain why discussion posts seem to be out of the blue then. The intention wasn't forced pace, it was to reflect on what you did, but I can see how that could be pacing. Does online require a discussion board post due on Wednesdays?  I see that in all the courses. I am happy making it due on Sunday like the rest of the assignments </code>
----
+--- <code style="color : purple">I think mandatory discussions on Wednesdays. I've been trying to ditch them to no avail. T_T </code>
 
 # Retrospective 2⚠️
 ---
 
 - This works great as an "alternative" Discussion. No forced pacing, no direct reliance on completing other work in the course early, etc. If you had to choose between one or the other, Retrospective 2 is inclusive for both onground and online, whereas Retrospective 1 might fit better as an On-Ground Activity sort of thing.
 ---<code style="color : aqua">Would 1 be a no go entirely for online?  or is it just a due date issue?</code>
----
+---<code style="color : purple">Just a due date issue. Move to Sunday and I think it works perfectly.</code>
 
 # Quiz✅
 ---
@@ -82,11 +83,13 @@
 ---
 ---
 
-# Assignment 1 <code style="color : aqua">Do you mean 2 here? lol </code>
+# Assignment 2 <code style="color : aqua">Do you mean 2 here? lol </code>
+<code style="color : purple">What~?  It totally has always said 2 and I didn't just change that, lol</code>
 ---
 - Step 2, consider removing code lines✅
 
 - Step 3, consider being more specific, such as "Display the following options to the user" or "Introduce the user to a room/scenario and prompt them with 2 movable directions such as the following: "<code style="color : aqua">Step 3 just asks for the users name? </code>
+--- <code style="color : purple">I was following the links in Modules instead of the Files, so that might be a discrepency on my part. My bad. </code>
 
 - Step 7, consider renaming step to "Closing Resources" and replacing the line of code with "Close the Scanner object".✅
 <code style="color : aqua">I did also add that line from above to the overview</code>
@@ -94,10 +97,37 @@
 
 # Overall Notes
 ---
-- Are the GPs supposed to only be 50 points? <code style="color : aqua">yes</code>
+- Are the GPs supposed to only be 50 points? <code style="color : aqua">yes</code> <code style="color : purple"> Cool. I saw one and just wanted to double check</code>
 
 - Quality Checks need consistent list formatting across all exercises. Recommend either use bullets or checkable check-boxes.<code style="color : aqua">I believe this got fixed and I will make note moving forward</code>
 
 - Anything in the Submissions sections that require students to type outside of the coding environment should explicitly state so. Ex: "Answer the following in your Lab Report: " OR "Explain blah in a few short sentences on a word document"<code style="color : aqua">I believe this also got updated</code>
 
 - Some kind of Resources section in each assignment would be helpful, with links to tutorials or documentation pages relevant to the assignment (Eclipse documentation, if-statement tutorial, etc.)<code style="color : aqua">Would this just be for assignments or the guided practices also?  But I love this idea! But then again, they do have the resources on the weekly dashboard? Would that suffice?</code>
+--- <code style="color : purple">Totally your call. I find my students don't always click on the Weekly Overview page. Could add a reminder box or something if you want to condense all resources to one page rather than assignment-by-assignment basis.</code>
+
+---
+---
+
+# [Epic Java Final Project Page] (https://ecpi.instructure.com/courses/156446/pages/epic-java-final-project?module_item_id=18798194)
+  ---
+  -  "+ final presentation" is not bolded in the Timeline box, making it inconsistent with the other "At a Glance" boxes
+
+---
+---
+
+# Final Project - Week 1 Submission
+---
+- An example screenshot somewhere (maybe accordian style?) of what the expected output for the week is would be helpful.
+
+- There needs to be more instructions somewhere easily accessible on the process of accessing the starting repo, a link to it, the expectations of branching development, and expectations (if any) on commiting.
+
+- A tip on taking the time to explore the original codebase might be helpful? I assume this may be some of their first looks at a project with multiple files, so the concept of separation of files and working with already existing code might feel overwhelming. This could also just fit as an Instructor Annoucement suggestion in the Weekly Instructor Guide.
+
+- Tips on what files will be touched in Week 1 might be helpful (might be a little too handholdy, up to you).
+
+- The expectation of the project is unclear. The page states both "Create a separate class for each game mode or major project component." AND "A short note or comment in your submission describing: what game or project you are building" which is confusing. Are students selecting one of 3 game types to focus on, or are they creating "all" the game types which dynamically change based on user selection? Some added clarity on this page would be helpful.
+
+- The submission list does not match with what the survey is asking for. Are students expected to submit individual java class files in addition to their project URL? You may want to revisit the "What to Submit" section.
+
+- One custom method is listed as a requirement. I don't remember if that was covered in any of the earlier assignments. If not, may want to include in one of the assignments (assuming this is students' first time encountering Java, they might not know the specific syntax/structure to make one).
