@@ -135,7 +135,7 @@ This works great as an "alternative" Discussion. No forced pacing, no direct rel
 
 ---
 
-# [Epic Java Final Project Page] (https://ecpi.instructure.com/courses/156446/pages/epic-java-final-project?module_item_id=18798194)
+# [Epic Java Final Project Page](https://ecpi.instructure.com/courses/156446/pages/epic-java-final-project?module_item_id=18798194)
   ---
   -  "+ final presentation" is not bolded in the Timeline box, making it inconsistent with the other "At a Glance" boxes
 
@@ -153,6 +153,20 @@ This works great as an "alternative" Discussion. No forced pacing, no direct rel
 - Tips on what files will be touched in Week 1 might be helpful (might be a little too handholdy, up to you).
 
 - The expectation of the project is unclear. The page states both "Create a separate class for each game mode or major project component." AND "A short note or comment in your submission describing: what game or project you are building" which is confusing. Are students selecting one of 3 game types to focus on, or are they creating "all" the game types which dynamically change based on user selection? Some added clarity on this page would be helpful.
+
+# SDC120L - Week 1
+---
+# Lab 1
+---
+- Recommend swapping Step 4 and Step 5.
+    Reason: Help students avoid errors from varible names not matching the ones in the formula.
+
+- Lab Retrospective 1, for Online if you take out the 2 reply requirement and move it to the end of the week, all set. OR move this week 2 so each week reflects on the previous one.
+---
+
+Week 1 Capstone
+---
+- Reflection Questions need to know where they are being saved and how to submit (word doc? comments?)
 
 - The submission list does not match with what the survey is asking for. Are students expected to submit individual java class files in addition to their project URL? You may want to revisit the "What to Submit" section.
 
