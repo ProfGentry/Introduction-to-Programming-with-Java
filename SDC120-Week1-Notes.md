@@ -4,7 +4,9 @@
 | 🟪 Hailey |
 | 🟩 Joe |
 
-# GP 1.1 - ✅
+# Week 1 - 🟧 I've gone through all these markups and incorproated - ready for re-review
+
+# GP 1.1 - 🟧 - Ready for final review 3/23
 ---
 - Step 4, EITHER:
     - A) add instruction to uncheck "Create module-info.java file", then Finish ✅
@@ -29,7 +31,7 @@
   
 ---
 
-# GP 1.2✅
+# GP 1.2 🟧 - Ready for final review 3/23
 ---
 - In step 1, consider adding link to GP 1✅
 
@@ -41,12 +43,12 @@
 ---
 ---
 
-# GP 1.3✅
+# GP 1.3 🟧 - Ready for final review 3/23
 
 - Step 5 has "Each coffee costs $4.50.", this should be moved to Step 6 for clarity.✅
 ---
 
-# GP 1.4✅
+# GP 1.4 🟧 - Ready for final review 3/23
 ---
 - Step 6, might want to mention students are practicing nested if-else statements, or update this example to use else-if statements (since if is introduced in 1.3), or update this example to use compound conditionals with || / &&
 ✅ 🟧 GREAT CATCH ON THIS ONE. Total went over my head tbh
@@ -69,14 +71,15 @@ This works great as an "alternative" Discussion. No forced pacing, no direct rel
 - 🟧 Would 1 be a no go entirely for online?  or is it just a due date issue?
 - 🟪 Just a due date issue. Move to Sunday and I think it works perfectly.
 
-# Quiz✅
+# Quiz 🟧 - Ready for final review 3/23
 ---
 
 - I don't know how to find the question bank for these. I am going to assume they are fine as they are selected from the book. 20 questions seems reasonable.
-- 
+- 🟧 There should be a link on the left titled Item Banks....all the questions should be in there.
+  
 ---
 
-# Assignment 1 ✅
+# Assignment 1 🟧 - Ready for final review 3/23
 ---
 
 - I would recommend clarifying in the Assignment Overview something like "Follow the steps below to complete your assignment" to give students a very clear cut starting point.✅
@@ -95,7 +98,7 @@ This works great as an "alternative" Discussion. No forced pacing, no direct rel
 
 ---
 
-# Assignment 2 🟧 Do you mean 2 here? lol 
+# Assignment 2 🟧 So I think this is ready for final review? 3/23
 🟪 What~?  It totally has always said 2 and I didn't just change that, lol
 ---
 - Step 2, consider removing code lines✅
@@ -108,7 +111,6 @@ This works great as an "alternative" Discussion. No forced pacing, no direct rel
 
 - Step 7, consider renaming step to "Closing Resources" and replacing the line of code with "Close the Scanner object".✅
 
-🟧 I did also add that line from above to the overview
 ---
 
 # Overall Notes
@@ -133,41 +135,45 @@ This works great as an "alternative" Discussion. No forced pacing, no direct rel
 
 🟪 Totally your call. I find my students don't always click on the Weekly Overview page. Could add a reminder box or something if you want to condense all resources to one page rather than assignment-by-assignment basis.
 
+🟧 So I totally added in the instructions to not forget to check the dashboard for additional help.
+
 ---
 
 # [Epic Java Final Project Page](https://ecpi.instructure.com/courses/156446/pages/epic-java-final-project?module_item_id=18798194)
   ---
-  -  "+ final presentation" is not bolded in the Timeline box, making it inconsistent with the other "At a Glance" boxes
+  -  "+ final presentation" is not bolded in the Timeline box, making it inconsistent with the other "At a Glance" boxes - 🟧 updated 3/23
 
 ---
 ---
 
-# Final Project - Week 1 Submission
+# Final Project - Week 1 Submission 🟧 updated 3/23 - So I think all of these things are there between the starter repo and the canvas page?  We can chat about it if you would like.
 ---
 - An example screenshot somewhere (maybe accordian style?) of what the expected output for the week is would be helpful.
 
-- There needs to be more instructions somewhere easily accessible on the process of accessing the starting repo, a link to it, the expectations of branching development, and expectations (if any) on commiting.
+- There needs to be more instructions somewhere easily accessible on the process of accessing the starting repo, a link to it, the expectations of branching development, and expectations (if any) on commiting. 🟧 updated 3/23 There is a box that says the required GitHub Setup with links to the GitHub helper pages.  Unfortunately, I don't have the final GitHub link yet, but I would love too link that here as soon as it is known. 
 
-- A tip on taking the time to explore the original codebase might be helpful? I assume this may be some of their first looks at a project with multiple files, so the concept of separation of files and working with already existing code might feel overwhelming. This could also just fit as an Instructor Annoucement suggestion in the Weekly Instructor Guide.
+- A tip on taking the time to explore the original codebase might be helpful? I assume this may be some of their first looks at a project with multiple files, so the concept of separation of files and working with already existing code might feel overwhelming. This could also just fit as an Instructor Annoucement suggestion in the Weekly Instructor Guide. 🟧 updated 3/23 - Great idea. I did put a new blurb under the Week 1 Tips for Success that says to take sometime to look at the starting code. 
 
 - Tips on what files will be touched in Week 1 might be helpful (might be a little too handholdy, up to you).
 
-- The expectation of the project is unclear. The page states both "Create a separate class for each game mode or major project component." AND "A short note or comment in your submission describing: what game or project you are building" which is confusing. Are students selecting one of 3 game types to focus on, or are they creating "all" the game types which dynamically change based on user selection? Some added clarity on this page would be helpful.
+- The expectation of the project is unclear. The page states both "Create a separate class for each game mode or major project component." AND "A short note or comment in your submission describing: what game or project you are building" which is confusing. Are students selecting one of 3 game types to focus on, or are they creating "all" the game types which dynamically change based on user selection? Some added clarity on this page would be helpful. 🟧 updated 3/23 - yea there was a pivot in the beginning which I didn't update the markdown for. The week 1 deliverables page is the "correct" Or did you mean in the Markdown? lol
 
 # SDC120L - Week 1
 ---
-# Lab 1
+# Lab 1 🟧 - Ready for final review 3/23
+
 ---
-- Recommend swapping Step 4 and Step 5.
+- Recommend swapping Step 4 and Step 5.🟧 updated 3/23 Done
     Reason: Help students avoid errors from varible names not matching the ones in the formula.
 
-- Lab Retrospective 1, for Online if you take out the 2 reply requirement and move it to the end of the week, all set. OR move this week 2 so each week reflects on the previous one.
+- Lab Retrospective 1, for Online if you take out the 2 reply requirement and move it to the end of the week, all set. OR move this week 2 so each week reflects on the previous one. 🟧 3/23 I don't think online would be happy about that :(  I'll come up with another topic for the discussion post for lab.
+- 
 ---
 
-Week 1 Capstone
+Week 1 Capstone 🟧 updated 3/23 Done
 ---
 - Reflection Questions need to know where they are being saved and how to submit (word doc? comments?)
 
-- The submission list does not match with what the survey is asking for. Are students expected to submit individual java class files in addition to their project URL? You may want to revisit the "What to Submit" section.
+- The submission list does not match with what the survey is asking for. Are students expected to submit individual java class files in addition to their project URL? You may want to revisit the "What to Submit" section. 🟧3/23 - Were there multiple files? 
 
 - One custom method is listed as a requirement. I don't remember if that was covered in any of the earlier assignments. If not, may want to include in one of the assignments (assuming this is students' first time encountering Java, they might not know the specific syntax/structure to make one).
