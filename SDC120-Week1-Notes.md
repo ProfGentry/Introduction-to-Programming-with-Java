@@ -160,7 +160,7 @@ This works great as an "alternative" Discussion. No forced pacing, no direct rel
 
 # SDC120L - Week 1
 ---
-# Lab 1 🟧 - Ready for final review 3/23
+# Lab 1 🟧 - Ready for final review 3/23 - Updated steps from the W3 Notes. Steps 2 & 3 combined, and renumbered other steps
 
 ---
 - Recommend swapping Step 4 and Step 5.🟧 updated 3/23 Done
