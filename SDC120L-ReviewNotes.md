@@ -1,21 +1,30 @@
 ---
-#SDC120L
+# SDC120L
+
 ---
 (Saved Lab Week 1 notes at bottom of First review note file)
 ---
-# Lab 2
+
+| Contributor |
+|-------------|
+| 🟧 Jennifer |
+| 🟪 Hailey |
+| 🟩 Joe |
+
+---
+# Lab 2 - 🟧 3/23 Fixed, ready for final review.
 
 - Top box says "Lab 1"
 ---
 
-# Lab Retrospective 2
+# Lab Retrospective 2 🟧 3/23 Fixed, ready for final review.
 
 - May need to drop peer reply requirement if the context is for this week's lab. Should be fine if it is a reflection on Week 1's progress, or if the context changes away from Lab 2 completion speficially to more generalized questions.
     - Ex) What is an example that helps you understand how decision logic works?
     - Ex) What might be the purpose of putting the grade calculation inside a method instead of writing everything in main in the lab exercise for this week?
 ---
 
-# Week 2 Capstone
+# Week 2 Capstone 🟧 3/23 Fixed, ready for final review.
 
 - The title of this assignment does not match the content (Campus Survival Kit vs ArcadeScoreAnalyzer)
 
