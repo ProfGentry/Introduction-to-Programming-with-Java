@@ -8,7 +8,7 @@
 | Contributor |
 |-------------|
 | 🟧 Jennifer |
-| 🟪 Hailey |
+| 🟪 Haylee |
 | 🟩 Joe |
 
 ---
@@ -53,4 +53,28 @@ Week 3
 # Week 3 Capstone - 🟧 3/23 Fixed, ready for final review.
 
 - This is a \*\*small system similar to what your final project will eventually require\*\*, but focused only on analyzing performance data. --> Markdown didn't bold correctly here (I assume it is meant to be bold?)  🟧 fixed.
+
 ---
+---
+Week 4
+---
+---
+# Lab 4
+- Checklist consistency, otherwise great!
+
+# Lab Retrospective 4
+- "In this week's lab..." context. Consider adjusting for Online.
+  
+---
+---
+Week 5
+---
+---
+# Lab Retrospective 4
+- "In this week's lab..." context. Consider adjusting for Online.
+---
+
+# Overall Notes:
+- Dashboards: The weekly dashboards list a different set of assignments compared to those in the Modules for the week. (For example, Week 3 mentions a Midterm and Week 4 lists 4 GPs). I recommend double checking all of them to make sure they match up with the finalized assignment list.
+  
+- Checklist/Submission lists: I recommend going through and making sure all of them have a consistent title and bullet system (dots vs boxes)
