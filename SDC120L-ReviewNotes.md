@@ -76,5 +76,6 @@ Week 5
 
 # Overall Notes:
 - Dashboards: The weekly dashboards list a different set of assignments compared to those in the Modules for the week. (For example, Week 3 mentions a Midterm and Week 4 lists 4 GPs). I recommend double checking all of them to make sure they match up with the finalized assignment list.
+- 🟧 So the Dashboards are consistant between the class and the lab to give it more continutiy. We can talk about this in the meeting and we can figure comething out. 
   
 - Checklist/Submission lists: I recommend going through and making sure all of them have a consistent title and bullet system (dots vs boxes)
